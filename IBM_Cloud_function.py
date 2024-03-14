@@ -11,3 +11,7 @@ def main(args):
     msg = MIMEMultipart() 
     msg['From']="Priyankasoni2016@gmail.com" #Replace with your own Gmail ID
     msg['To']="Priyankasoni2393@gmail.com" #Replace with your receiver email ID
+    phone = args.get("phone")
+    date = args.get("date")
+    time = args.get("time")
+    
