@@ -18,4 +18,3 @@ def main(args):
     msg.attach(MIMEText(message, 'plain'))
     s.send_message(msg)
     return {message : 'Email Sent'}
-    

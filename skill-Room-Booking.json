@@ -1,1 +1,22 @@
 
+{
+  "intents" : [
+    {
+      "intent" : "Cancel",
+      "examples" : [
+        {
+          "text" : "cancel that"
+        },
+        {
+          "text" : "cancel the request"
+        },
+        {
+          "text" : "forget it"
+        },
+        {
+          "text" : "i changed my mind"
+        },
+        {
+         "text" : "i don't want a table anymore"
+        },  
+
