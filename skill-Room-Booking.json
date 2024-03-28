@@ -26,4 +26,11 @@
          "text" : "nevermind"
         }
       ],
-
+         "description": "Cancel the current request"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good day"
+        },
