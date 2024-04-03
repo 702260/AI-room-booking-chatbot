@@ -108,6 +108,9 @@
            },
            ],
          "description" : "Ask for help"
-          },
-
-        
+          },   
+        {
+      "intent": "Hotel_Hours",
+      "examples": [
+        {
+          "text": "are hotel open on Sunday"
