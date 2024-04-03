@@ -34,3 +34,80 @@
         {
           "text": "Good day"
         },
+        {
+          "text" : "good evening"
+        },
+        {
+          "text" : "good  morning"
+        },
+        {
+          "text" : "Greetings"
+        },
+        {
+        "text" : "Hello"
+        },
+        {
+        "text" : "Hey there"
+        },
+        {
+        "text" : "Hey you"
+        },
+        {
+        "text" : "hi"
+        },
+        {
+        "text" : "How r u?"
+        }
+      ],
+      "description":  "Greetings"
+    },
+    {
+      "intent" : "Goodbye"
+      "examples : [
+         {
+        "text" : "arrivederci"
+         },
+         {
+         "text" : "bye"
+         },
+        {
+         "text" : "ciao"
+        },
+         "text" : "good bye"
+        },
+         "text" : "see ya"
+       },
+        "text" ; "so long"
+       }
+       ],
+       "descriptions"  : "Good byes"
+       },
+       {
+       "intent" : "Help",
+       "examples" :  [
+           {
+         "text" : "can you assist me",
+           },
+           {
+         "text" : "can you help",
+           },
+           {
+         "text" : "help",
+           },
+           {
+         "text" : "help me"
+           },
+           {
+         "text" : "i need assistance"
+           },
+           {
+         "text" : "what can i do"
+           },
+           {
+         "text" : "what can i say"
+           },
+           ],
+         "description" : "Ask for help"
+          },
+
+        
