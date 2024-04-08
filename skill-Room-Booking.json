@@ -25,6 +25,15 @@
         {
          "text" : "nevermind"
         }
+        {
+          "text": "Are you closed new Year's eve"
+        },
+        {
+          "text": "Are you closing early today"
+        },
+        {
+          "text": "Are you open on bank holidays?"
+        },
       ],
          "description": "Cancel the current request"
     },
